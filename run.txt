@@ -1,0 +1,4 @@
+Para rodar DeepCoNN, NARRE, D_ATTN, MPCN e DAML, execute:
+
+python3 main.py train --model="model" --num_fea="num_fea" --output="Recommender"
+
